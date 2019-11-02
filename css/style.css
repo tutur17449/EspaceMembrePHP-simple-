@@ -1,0 +1,19 @@
+body {
+    margin : 0;
+    padding : 0;
+    top : 0;
+    left : 0;
+}
+h1 {
+    background-color : #000052;
+    color : #fff;
+    text-align : center;
+    margin : 0;
+    padding : 1rem;
+}
+
+form {
+    width : 40%;
+    text-align : center;
+    margin : auto;
+}
