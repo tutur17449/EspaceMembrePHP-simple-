@@ -102,6 +102,6 @@ require('./config.php');
         <button type="submit" class="btn btn-primary">S'inscrire</button>
     </form>
 
-    <script src="https://kit.fontawesome.com/4cd660c89f.js"></script>
+    <script src="https://kit.fontawesome.com/XXXXX.js"></script>
 </body>
 </html>
