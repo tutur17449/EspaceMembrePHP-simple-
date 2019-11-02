@@ -78,6 +78,6 @@ if(!empty($_POST['email']) && !empty($_POST['password'])){
         </div>
     </form>
 
-    <script src="https://kit.fontawesome.com/4cd660c89f.js"></script>
+    <script src="https://kit.fontawesome.com/XXXXX.js"></script>
 </body>
 </html>
