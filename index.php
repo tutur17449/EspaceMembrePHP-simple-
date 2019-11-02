@@ -24,7 +24,6 @@ session_start();
     <?php 
         }
     ?>
-    <script src="js/script.js"></script>
     <script src="https://kit.fontawesome.com/4cd660c89f.js"></script>
 </body>
 </html>
